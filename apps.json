@@ -6,7 +6,7 @@
         "category": "woocommerce",
         "thumbnail": "https://cdn.appmaster.io/api/_files/t4tiyWnym98iLDW2HCXXeG/download/",
         "demoUrl": "",
-        "content": "",
+        "content": "https://raw.githubusercontent.com/naumanahmed19/xapp-demos/master/brand/content.json?token=GHSAT0AAAAAABWAOUFE7BFXNCHS23BRNFS4YV3H4FA",
         "plugins": [{
             "name": "Woocommerce",
             "slug": "woocommerce",
@@ -23,7 +23,7 @@
         "category": "mutlipurpse",
         "thumbnail": "https://www.upwork.com/catalog-images-resized/31c673ffc746fe73089e0c4780a51d9d/large",
         "demoUrl": "",
-        "content": "",
+        "content": "https://raw.githubusercontent.com/naumanahmed19/xapp-demos/master/starter/content.json?token=GHSAT0AAAAAABWAOUFE7BFXNCHS23BRNFS4YV3H4FA",
         "plugins": [{
             "name": "Gutentor",
             "slug": "gutentor",
